@@ -18,6 +18,7 @@
 
       })
 
+     
 
 
        function handleRemoval(liTag){
@@ -29,4 +30,9 @@
                })
 
        }
-      
+    //    let buttonTag= document.querySelector("button");
+    //    buttonTag.addEventListener("click",function(){
+    //       ulTag.remove();
+              
+
+    //    })
